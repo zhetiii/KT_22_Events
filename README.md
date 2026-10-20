@@ -10,3 +10,6 @@
 
 # Результаты и проверочные ключи
 <img width="1374" height="241" alt="изображение" src="https://github.com/user-attachments/assets/6c0c56a1-1ece-452e-8840-5260459008a7" />
+
+# Результат который получился у меня:
+<img width="961" height="1138" alt="изображение" src="https://github.com/user-attachments/assets/b91a7fef-6226-404f-9c45-526510623c1f" />
