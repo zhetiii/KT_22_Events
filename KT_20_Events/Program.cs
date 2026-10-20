@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KT_20_Events
+namespace KT_22_Events
 {
     internal class Program
     {
@@ -9,7 +9,7 @@ namespace KT_20_Events
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("==================================================");
-            Console.WriteLine("  КТ №20: События в C# (Вариант 1 - Таймер)       ");
+            Console.WriteLine("  КТ №22: События в C# (Вариант 1 - Таймер)       ");
             Console.WriteLine("==================================================\n");
 
             int initialSeconds = 10;
