@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace KT_20_Events
+namespace KT_22_Events
 {
     public class CountdownTimer
     {
